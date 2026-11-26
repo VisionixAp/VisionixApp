@@ -2,6 +2,6 @@
    Esa clave está pensada para ir dentro de la app (la seguridad la dan los permisos de la base de datos).
    NUNCA pongas aquí la clave secreta (service_role / secret). */
 window.VISIONIX_CONFIG = window.VISIONIX_CONFIG || {
-  "url": "",
-  "clave": ""
+  "url": "https://egkobbsicsfyiyudeljl.supabase.co",
+  "clave": "sb_publishable_YnHTE-Klc8STdjCevQ6buQ_quZxcpH4"
 };
